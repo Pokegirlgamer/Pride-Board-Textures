@@ -15,6 +15,7 @@ Replacing the Skateboard Textures with Pride Flag Colours
 *Required Mods: Pathoschild.ContentPatcher & aedenthorn.Skateboard*
 
 **Mod Compatibility: Windows & Android**
+
 Credits To: Pokegirl Gamer.
 
 ![](https://staticdelivery.nexusmods.com/mods/1303/images/17068/17068-1687068548-436001511.png)
